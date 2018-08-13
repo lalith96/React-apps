@@ -1,0 +1,18 @@
+.container1{
+    width:1025px;
+    margin:0px auto;
+}
+.Up{
+    border-bottom:1px solid #bfbfc1;
+    font-size: 12px;
+    color:#666666;
+}
+
+.Down{
+    font-size: 12px;
+}
+
+#copyright{
+    font-size: 12px;
+    color:#666666;
+}

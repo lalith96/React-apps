@@ -1,0 +1,19 @@
+.ibox{
+    width:540px;
+    height:400px;
+    margin:70px 0px 0px 110px;
+}
+
+.ibox p{
+    width:458px;
+    font-size:19px; 
+    font-family:Arial;
+    font-weight:bold;
+    color:#0e385f;
+    margin: 0px 0px 0px 20px;
+}
+
+.ibox img{
+    width: 570px;
+    height: 225px;
+}
